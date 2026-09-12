@@ -56,7 +56,7 @@
       description:
         "Private, precision-based price forecasts on tokenized stocks, crypto and Robinhood Chain memes. Settled in USDG.",
       home: "/",
-      xUrl: t.default.env.NEXT_PUBLIC_X_URL || "https://x.com/hopweb3",
+      xUrl: t.default.env.NEXT_PUBLIC_X_URL || "https://x.com/hopweb_3",
       projectToken: t.default.env.NEXT_PUBLIC_PROJECT_TOKEN || "",
     };
     e.s(["BRAND", 0, r]);

@@ -1224,7 +1224,7 @@
                       ".pp-nav{column-gap:28px}.pp-nav-link{letter-spacing:.06em;color:hsla(0,0%,100%,.7)}.pp-nav-link:hover{color:#fff}.pp-nav-cta{letter-spacing:.06em;padding:0 18px;border-radius:10px}.pp-nav-cta:hover{background-color:#fff}.pp-nav-x{color:hsla(0,0%,100%,.7);margin-left:4px}.pp-nav-x:hover{color:#fff}@media(min-width:1024px){.pp-nav-link{font-size:13px;line-height:1}}.pp-nav-link{position:relative;display:block;overflow:hidden;white-space:nowrap;line-height:1}.pp-fl-row{display:block;line-height:1;white-space:nowrap}.pp-fl-back{position:absolute;inset:0}.pp-fl-a,.pp-fl-b{display:inline-block;vertical-align:top;transition:transform .3s ease-in-out}.pp-fl-b{transform:translateY(110%)}.pp-nav-link:hover .pp-fl-a{transform:translateY(-110%)}.pp-nav-link:hover .pp-fl-b{transform:translateY(0)}@media(prefers-reduced-motion:reduce){.pp-fl-a,.pp-fl-b{transition:none}.pp-nav-link:hover .pp-fl-a{transform:none}.pp-fl-b{display:none}}",
                   }),
                   (0, n.jsx)("a", {
-                    href: "https://x.com/hopweb3",
+                    href: "https://x.com/hopweb_3",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     "aria-label": "HOP on X",
