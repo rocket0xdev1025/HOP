@@ -85,7 +85,7 @@
                           className: "underline",
                           "aria-label": "Dashboard",
                           target: "_blank",
-                          href: "/dashboard",
+                          href: "/#",
                           children: "Dashboard",
                         }),
                         " ",

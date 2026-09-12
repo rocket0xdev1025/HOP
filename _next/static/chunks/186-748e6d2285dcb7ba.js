@@ -1242,12 +1242,12 @@
                     }),
                   }),
                   (0, n.jsx)("a", {
-                    href: "/dashboard",
+                    href: "/#",
                     className:
                       "pp-nav-cta flex items-center h-[38px] bg-pink-900 text-black font-bold uppercase text-xs transition-colors ".concat(
                         u().className
                       ),
-                    children: "Open app",
+                    children: "Open App",
                   }),
                   (0, n.jsxs)(o.Z, {
                     className:

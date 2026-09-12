@@ -317,7 +317,7 @@
       _ =
         "string" == typeof TURBOPACK_CHUNK_BASE_PATH
           ? TURBOPACK_CHUNK_BASE_PATH
-          : "/dashboard/_next/",
+          : "/#/_next/",
       P = new Map();
     l.M = P;
     let $ = new Map(),

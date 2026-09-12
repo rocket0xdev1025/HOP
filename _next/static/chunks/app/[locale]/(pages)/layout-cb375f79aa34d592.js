@@ -241,7 +241,7 @@
                               children:
                                 (null === (o = e.label) || void 0 === o
                                   ? void 0
-                                  : o.toUpperCase()) || "OPEN APP",
+                                  : o.toUpperCase()) || "Open App",
                             }),
                           ],
                         }),

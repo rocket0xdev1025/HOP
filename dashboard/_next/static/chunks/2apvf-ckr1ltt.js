@@ -650,8 +650,6 @@
         { href: "/", label: "Pools" },
         { href: "/positions", label: "Positions" },
         { href: "/portfolio", label: "Portfolio" },
-        { href: "/leaderboard", label: "Leaderboard" },
-        { href: "/whitepaper", label: "Whitepaper" },
       ],
       y = (e) => {
         try {

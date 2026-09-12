@@ -6672,7 +6672,7 @@ Read more: https://nextjs.org/docs/messages/failed-to-find-server-action`),
         },
       }),
       e.r(52817);
-    let n = "/dashboard";
+    let n = "/#";
     function a(e) {
       return (
         0 === n.length ||
@@ -9412,7 +9412,7 @@ Learn more: https://nextjs.org/docs/messages/instant-link-prefetch-partial`),
       a = e.r(82823);
     function l(e, t) {
       return (0, a.normalizePathTrailingSlash)(
-        (0, n.addPathPrefix)(e, "/dashboard")
+        (0, n.addPathPrefix)(e, "/#")
       );
     }
     ("function" == typeof r.default ||
@@ -9641,7 +9641,7 @@ Learn more: https://nextjs.org/docs/messages/instant-link-prefetch-partial`),
       });
     let n = e.r(59084);
     function a(e) {
-      return (0, n.pathHasPrefix)(e, "/dashboard");
+      return (0, n.pathHasPrefix)(e, "/#");
     }
     ("function" == typeof r.default ||
       ("object" == typeof r.default && null !== r.default)) &&

@@ -7466,7 +7466,7 @@
                   label: `${rW.BRAND.name} on X`,
                   external: !0,
                 },
-                { href: "/", label: "Open app" },
+                { href: "/", label: "Open App" },
                 { href: "/docs", label: "Docs" },
               ],
             },

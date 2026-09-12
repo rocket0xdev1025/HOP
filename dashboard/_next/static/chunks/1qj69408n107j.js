@@ -423,7 +423,7 @@
   86687,
   (e) => {
     "use strict";
-    let t = "/dashboard",
+    let t = "/#",
       r = "0x1237",
       n = "Robinhood Chain",
       a = "https://robinhoodchain.blockscout.com",
